@@ -4,19 +4,18 @@
 	"author": "Ned Rush and Jeremy Wentworth",
 	"license": "BSD-3-Clause",
 	"authorEmail": "jeremy@jeremywentworth.com",
-	"pluginUrl": "https://github.com/jeremywen/JW-Modules",
+	"pluginUrl": "https://github.com/jeremywen/NedRushVCV",
 	"authorUrl": "http://jeremywentworth.com/",
-	"manualUrl": "https://github.com/jeremywen/JW-Modules#jw-modules",
-	"sourceUrl": "https://github.com/jeremywen/JW-Modules",
-	"donateUrl": "https://www.paypal.me/jeremywen",
-	"changelogUrl": "https://github.com/jeremywen/JW-Modules/blob/master/CHANGELOG.md",
+	"manualUrl": "https://github.com/jeremywen/NedRushVCV#nedRushVCV",
+	"sourceUrl": "https://github.com/jeremywen/NedRushVCV",
+	"changelogUrl": "https://github.com/jeremywen/NedRushVCV/blob/master/CHANGELOG.md",
 	"version": "2.0.1",
 	"modules": [
 		{
 			"slug": "RnboHelpDelay",
 			"name": "RNBO Help Delay",
 			"description": "RNBO Help Delay patch",
-			"manualUrl": "https://github.com/jeremywen/JW-Modules",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-help-delay",
 			"tags": [
 				"Utility",
 				"Audio"
@@ -26,7 +25,7 @@
 			"slug": "RnboNedKick",
 			"name": "RNBO Ned Kick",
 			"description": "RNBO Ned Kick drum synthesizer",
-			"manualUrl": "https://github.com/jeremywen/JW-Modules",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-kick",
 			"tags": [
 				"Drum",
 				"Audio"
@@ -36,7 +35,7 @@
 			"slug": "RnboRandom8",
 			"name": "RNBO Random 8",
 			"description": "RNBO Random 8 voltage generator",
-			"manualUrl": "https://github.com/jeremywen/JW-Modules",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-random-8",
 			"tags": [
 				"Random",
 				"Utility"
@@ -46,7 +45,7 @@
 			"slug": "RnboNedLFO1",
 			"name": "RNBO Ned LFO 1",
 			"description": "RNBO Ned LFO 1 patch",
-			"manualUrl": "https://github.com/jeremywen/JW-Modules",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-lfo-1",
 			"tags": [
 				"Utility",
 				"Audio"
@@ -56,7 +55,7 @@
 			"slug": "RnboNedRepeat",
 			"name": "RNBO Ned Repeat",
 			"description": "RNBO Ned Repeat patch",
-			"manualUrl": "https://github.com/jeremywen/JW-Modules",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-repeat",
 			"tags": [
 				"Utility",
 				"Audio"
