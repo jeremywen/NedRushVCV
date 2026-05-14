@@ -1,4 +1,4 @@
-#include "JWModules.hpp"
+#include "plugin.hpp"
 
 #if defined(METAMODULE_BUILTIN)
 extern Plugin *pluginInstance;

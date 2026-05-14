@@ -1,4 +1,4 @@
-#include "JWModules.hpp"
+#include "plugin.hpp"
 #include <cmath>
 
 // Include the RNBO generated code
