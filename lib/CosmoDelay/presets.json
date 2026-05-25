@@ -1,0 +1,22 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "feedback": {
+        "value": 0.8300000000000002
+      },
+      "feedfreq": {
+        "value": 967
+      },
+      "feedres": {
+        "value": 0.11600000000000003
+      },
+      "filtertype": {
+        "value": 0
+      },
+      "time": {
+        "value": 29
+      }
+    }
+  }
+]

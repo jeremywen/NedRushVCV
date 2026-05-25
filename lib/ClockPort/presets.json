@@ -1,0 +1,37 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "div1": {
+        "value": 15
+      },
+      "div2": {
+        "value": 8
+      },
+      "div3": {
+        "value": 2
+      },
+      "div4": {
+        "value": 6
+      },
+      "div5": {
+        "value": 10
+      },
+      "div6": {
+        "value": 12
+      },
+      "div7": {
+        "value": 15
+      },
+      "div8": {
+        "value": 15
+      },
+      "startstop": {
+        "value": 1
+      },
+      "tempo": {
+        "value": 120
+      }
+    }
+  }
+]

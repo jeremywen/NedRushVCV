@@ -30,9 +30,16 @@ struct Screw_W : SVGScrew {
 	}
 };
 
-extern Model *modelRnboHelpDelay;
-extern Model *modelRnboNedKick;
-extern Model *modelRnboRandom8;
-extern Model *modelRnboNedLFO1;
-extern Model *modelRnboNedRepeat;
+extern Model *modelHelpDelay;
+extern Model *modelNedKick;
+extern Model *modelRandom8;
+extern Model *modelNedLFO1;
+extern Model *modelNedRepeat;
+extern Model *modelRandomSeq;
+extern Model *modelCosmoDelay;
+extern Model *modelGraiNed;
+extern Model *modelClockPort;
+extern Model *modelLuckyTriggers;
+extern Model *modelLuckyGate;
+extern Model *modelWuggle;
 

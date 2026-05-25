@@ -13,9 +13,16 @@ void init(rack::Plugin *p) {
 #endif
 
 	pluginInstance = p;
-	p->addModel(modelRnboHelpDelay);
-	p->addModel(modelRnboNedKick);
-	p->addModel(modelRnboRandom8);
-	p->addModel(modelRnboNedLFO1);
-	p->addModel(modelRnboNedRepeat);
+	p->addModel(modelHelpDelay);
+	p->addModel(modelNedKick);
+	p->addModel(modelRandom8);
+	p->addModel(modelNedLFO1);
+	p->addModel(modelNedRepeat);
+	p->addModel(modelRandomSeq);
+	p->addModel(modelCosmoDelay);
+	p->addModel(modelGraiNed);
+	p->addModel(modelClockPort);
+	p->addModel(modelLuckyTriggers);
+	p->addModel(modelLuckyGate);
+	p->addModel(modelWuggle);
 }

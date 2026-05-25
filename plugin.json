@@ -12,53 +12,128 @@
 	"version": "2.0.1",
 	"modules": [
 		{
-			"slug": "RnboHelpDelay",
-			"name": "RNBO Help Delay",
-			"description": "RNBO Help Delay patch",
-			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-help-delay",
+			"slug": "HelpDelay",
+			"name": "Help Delay",
+			"description": "Help Delay patch",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#help-delay",
 			"tags": [
 				"Utility",
 				"Audio"
 			]
 		},
 		{
-			"slug": "RnboNedKick",
-			"name": "RNBO Ned Kick",
-			"description": "RNBO Ned Kick drum synthesizer",
-			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-kick",
+			"slug": "NedKick",
+			"name": "Ned Kick",
+			"description": "Ned Kick drum synthesizer",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#ned-kick",
 			"tags": [
 				"Drum",
 				"Audio"
 			]
 		},
 		{
-			"slug": "RnboRandom8",
-			"name": "RNBO Random 8",
-			"description": "RNBO Random 8 voltage generator",
-			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-random-8",
+			"slug": "Random8",
+			"name": "Random 8",
+			"description": "Random 8 voltage generator",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#random-8",
 			"tags": [
 				"Random",
 				"Utility"
 			]
 		},
 		{
-			"slug": "RnboNedLFO1",
-			"name": "RNBO Ned LFO 1",
-			"description": "RNBO Ned LFO 1 patch",
-			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-lfo-1",
+			"slug": "NedLFO1",
+			"name": "Ned LFO 1",
+			"description": "Ned LFO 1 patch",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#ned-lfo-1",
 			"tags": [
 				"Utility",
 				"Audio"
 			]
 		},
 		{
-			"slug": "RnboNedRepeat",
-			"name": "RNBO Ned Repeat",
-			"description": "RNBO Ned Repeat patch",
-			"manualUrl": "https://github.com/jeremywen/NedRushVCV#rnbo-ned-repeat",
+			"slug": "NedRepeat",
+			"name": "Ned Repeat",
+			"description": "Ned Repeat patch",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#ned-repeat",
 			"tags": [
 				"Utility",
 				"Audio"
+			]
+		},
+		{
+			"slug": "RandomSeq",
+			"name": "Random Seq",
+			"description": "Random sequence generator",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#random-seq",
+			"tags": [
+				"Random",
+				"Sequencer",
+				"Utility"
+			]
+		},
+		{
+			"slug": "CosmoDelay",
+			"name": "Cosmo Delay",
+			"description": "Cosmo delay processor",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#cosmo-delay",
+			"tags": [
+				"Delay",
+				"Audio",
+				"Filter"
+			]
+		},
+		{
+			"slug": "GraiNed",
+			"name": "GraiNed",
+			"description": "granular buffer player",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#grained",
+			"tags": [
+				"Granular",
+				"Sampler",
+				"Audio"
+			]
+		},
+		{
+			"slug": "ClockPort",
+			"name": "Clock Port",
+			"description": "transport divider matrix",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#clock-port",
+			"tags": [
+				"Clock",
+				"Utility",
+				"Sequencer"
+			]
+		},
+		{
+			"slug": "LuckyTriggers",
+			"name": "Lucky Triggers",
+			"description": "probability trigger filter",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#lucky-triggers",
+			"tags": [
+				"Random",
+				"Utility"
+			]
+		},
+		{
+			"slug": "LuckyGate",
+			"name": "Lucky Gate",
+			"description": "probability gate",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#lucky-gate",
+			"tags": [
+				"Random",
+				"Utility"
+			]
+		},
+		{
+			"slug": "Wuggle",
+			"name": "Wuggle",
+			"description": "clock shaping noise",
+			"manualUrl": "https://github.com/jeremywen/NedRushVCV#wuggle",
+			"tags": [
+				"Clock",
+				"Utility",
+				"Random"
 			]
 		}
 	]
